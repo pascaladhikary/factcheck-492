@@ -5,3 +5,4 @@ google-auth-httplib2==0.0.3
 httplib2==0.13.1
 praw==6.4.0
 prawcore==1.0.1
+rake-nltk==1.0.6
